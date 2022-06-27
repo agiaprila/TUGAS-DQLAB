@@ -54,7 +54,7 @@ Pilih salah satu data, lalu lakukan agregasi dan visualisasi Data.
 Jawaban yang dikumpul terdiri dari 2 file, yaitu:
 1. Sintaks
 2. Hasil dan Interpretasi 
-Catatan : Data hanya boleh digunakan maksimal 20 peserta yang berbeda.
+Catatan : Data hanya boleh digunakan maksimal 15 peserta yang berbeda.
 
 
 Submit jawaban di google form berikut:
